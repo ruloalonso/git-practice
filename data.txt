@@ -1,3 +1,4 @@
 name: Rulo
 age: 31
 color: red
+pet: guinea-pig
