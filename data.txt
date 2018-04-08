@@ -1,0 +1,3 @@
+name: Rulo
+age: 31
+color: red
